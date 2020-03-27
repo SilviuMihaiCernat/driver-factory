@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ItemCheckoutSuite">
+    <test name="ItemCheckoutTest">
+        <classes>
+            <class name="auto.tests.TC02ItemCheckoutTest">
+                <methods>
+                    <include name="itemCheckoutTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

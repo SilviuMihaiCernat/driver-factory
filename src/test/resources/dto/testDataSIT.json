@@ -1,0 +1,21 @@
+{
+  "url" : "http://automationpractice.com/index.php",
+  "firstName" : "FirstName",
+  "lastName" : "LastName",
+  "email" : "dJPXhw5O2F@rFXLq.com",
+  "password" : "autoPractice$h1234",
+  "dateOfBirthDays" : "1",
+  "dateOfBirthMonths" : "1",
+  "dateOfBirthYears" : "2000",
+  "company" : "TestCompany",
+  "firstHomeAddress" : "TestAddress1",
+  "secondHomeAddress" : "TestAddress2",
+  "city" : "New York",
+  "state" : "Colorado",
+  "zipCode" : "12345",
+  "country" : "United States",
+  "additionalInfo" : "TestInfo",
+  "homePhone" : "1234567890",
+  "mobilePhone" : "1234567890",
+  "addressAlias" : "hf"
+}

@@ -1,0 +1,7 @@
+{
+  "environment" : "sit",
+  "browser" : "chrome",
+  "operatingSystem" : "windows",
+  "operatingSystemVersion" : 7,
+  "remoteRun" : false
+}

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ClientCreationSuite">
+    <test name="ClientCreationTest">
+        <classes>
+            <class name="auto.tests.TC01ClientCreationTest">
+                <methods>
+                    <include name="signInTest" />
+                    <include name="logInTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
